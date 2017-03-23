@@ -17,7 +17,7 @@ Integrantes:
  
  2º Descrição de execução;
  - Depois de compilar o código, executar no cmd o comando "go run main.go"
- Caso queira usar os binários disponibilizados no arquivo .ZIP, basta clicar no binário da arquitetura do seu computador que o programa
+ Caso queira usar os binários disponibilizados no arquivo .ZIP dentro da pasta DIST, basta clicar no binário da arquitetura do seu computador que o programa
  será executado.
  
  3º Descrição de Instalação:
