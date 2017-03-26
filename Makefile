@@ -1,6 +1,6 @@
 COMMIT_HASH=`git rev-parse --short HEAD>/dev/null`
 DIST := dist
-IMPORT := github.com/felipeweb/calculadoratcp/calculator
+IMPORT := github.com/felipeweb/calculadoratcp
 OUT := 'calculator'
 TARGETS ?= linux/*,darwin/*,windows/*
 
