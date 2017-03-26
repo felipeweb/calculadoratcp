@@ -4,7 +4,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/felipeweb/tcp/calculator"
+	"github.com/felipeweb/calculadoratcp/calculator"
 )
 
 func main() {
